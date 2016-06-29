@@ -31,7 +31,7 @@ iOSには合理的で心地よいアニメーションがたくさん盛り�
 
 iOSパスコード入力画面では、注目してほしいポイントが「フェード」と「シェイク」の2箇所あります。
 
-![img/cap_lock.png](img/app_shake.jpg =600x)
+![パスコード入力画面](img/app_shake.png =600x)
 
 &nbsp;
 
@@ -48,7 +48,7 @@ iOSパスコード入力画面では、注目してほしいポイントが「�
 
 iOS標準の写真ビュアーのアプリです。iPhoneに保存した画像一覧画面から、画像拡大画面に遷移させる際にも「ズーム」と「バウンス」の2つのアニメーションが隠れています。
 
-![img/cap_photo.PNG](img/app_photo.jpg =600x)
+![写真アプリ](img/app_photo.png =600x)
 
 &nbsp;
 
@@ -66,7 +66,7 @@ iOS標準の写真ビュアーのアプリです。iPhoneに保存した画像�
 
 iOS標準アプリのボイスメモです。音声を録音する為の一連の機能として、再生、録画、静止などが入っています。
 
-![img/cap_rec.PNG](img/app_morphing.jpg =600x)
+![ボイスメモ](img/app_morphing.png =600x)
 
 &nbsp;
 
